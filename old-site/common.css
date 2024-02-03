@@ -1,0 +1,741 @@
+
+
+/* commmon styles for metlink & viclink
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+p, .bodytext, .noteText, address {
+	font-size: 80%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #000000;
+	margin-top: 10px;
+	}
+
+address {
+	font-style: normal;
+	}
+
+li, dl{
+	font-size: 80%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #000000;
+	}
+
+dt { font-weight: bold; }
+dd { margin-bottom: 1em; margin-left: 0; }
+
+.topnavBg {
+	background-color: #E6EBE8;
+	}
+
+.topnavtagline {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #666666;
+	}
+
+.bodyText {
+	font-size: 80%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #000000;
+	}	
+	
+.bodytextRed {
+	font-size: 80%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: red;
+	}
+
+.bodytextSmall, .bodytextsmall  {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #000000;
+	}
+
+
+/* NEWS STYLES --------------------------------------------------- */
+.newsType {
+	font-size: 80%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #cc0000;
+	text-decoration: none;
+	}
+.newsType_Intranet {
+	font-size: 80%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	text-decoration: none;
+	}
+
+.newsTitle {
+	font-size: 80%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #333333;
+	text-decoration: none;
+	}
+
+.dateText {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #666666;
+	text-decoration: none;
+	}
+
+/* HEADINGS --------------------------------------------------- */
+h1, .h1 {
+	font-size: 105%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #cc0000;
+	margin-bottom: 5px;
+	margin-top: 20px;
+	}
+
+h2 , .h2 {
+	font-size: 90%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #CC0000;
+	font-weight: normal;
+	margin-bottom: 3px;
+	margin-top: 26px;
+	}
+
+h3 {
+	font-size: 80%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #000000;
+	font-weight: bold;
+	margin-bottom: 1px;
+	}
+
+h4 {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #333333;
+	font-weight: bold;
+	margin-bottom: 1px;
+	}
+
+.subheading {
+	font-size: 80%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #cc0000;
+	}
+
+
+/* DEFAULT LINKS --------------------------------------------------- */
+a {
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #2C6593;
+	}
+
+a:hover {
+	color: #1D4362;
+	}
+
+
+/* TOPNAV LINKS --------------------------------------------------- */
+.linkTopnav {
+	font-family: arial, verdana, helvetica, sans-serif;
+	font-size: 70%;
+	color: #3B3B3B;
+	}
+
+.linkTopnav a {
+	text-decoration: none;
+	color: #3B3B3B;
+	}
+
+.linkTopnav a:hover {
+	text-decoration: underline;
+	}
+
+
+/* FOOTER LINK --------------------------------------------------- */
+.linkFooter {
+	font-size: 70%;
+	}
+
+.linkFooter a {
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #FFFFFF;
+	text-decoration: none;
+	}
+
+.linkFooter a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+	}
+
+
+/* SITEMAP LINKS --------------------------------------------------- */
+
+.linkSitemap {
+	font-size: 75%;
+	}
+
+/* LINK BLACK --------------------------------------------------- */
+.linkBlack {
+	font-size: 80%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #333333;
+	text-decoration: underline;
+}
+
+a.linkBlack:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+
+/* LINK BLACK --------------------------------------------------- */
+.linkBlackPublic {
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #333333;
+	text-decoration: underline;
+}
+
+a.linkBlackPublic:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+
+
+/* WHATS NEW LINK --------------------------------------------------- */
+.linkWhatsnew {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #333333;
+	text-decoration: underline;
+}
+
+
+/* ARROW GREY LINK --------------------------------------------------- */
+.arrow {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #2C6593;
+	text-decoration: none;
+	text-transform: uppercase;
+	}
+
+a.arrow:hover {
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #1D4362;
+	}
+
+
+/* ARROW GREY LINK --------------------------------------------------- */
+.arrowGrey {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #666666;
+	text-decoration: none;
+}
+
+a.arrowGrey:hover {
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #333333;
+	text-decoration: none;
+}
+
+/* CLOSE BUTTON LINK --------------------------------------------------- */
+.closeBtn {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.closeBtn:hover {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+
+/* SMALL ARROW LINKS - btm of timetable table --------------------------*/
+.smallarrow {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #596757;
+	text-decoration: none;
+	}
+
+a.smallarrow:hover {
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #000000;
+	text-decoration: none;
+	}
+	
+	/* TIMETABLES LINKS --------------------------------------------------- */
+.linkTimetable {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #2C6593;
+	}
+
+a:hover {
+	color: #1D4362;
+	}
+
+
+/* TABLE STYLES --------------------------------------------------- */
+.tableHeader {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #ffffff;
+	letter-spacing: 1px;
+}
+.tableSubHeader {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #000000;
+	letter-spacing: 1px;
+	font-weight: normal;
+}
+.tableHeaderGreen {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #358601;
+	letter-spacing: 1px;
+}
+.tableTitle {
+	font-size: 75%;
+	font-weight: bold;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #000000;
+}
+.tableVLineTitle {
+	font-size: 75%;
+	font-weight: bold;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #358601;
+}
+.tableText {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #000000;
+}
+.resultsHeader {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #000000;
+	letter-spacing: 1px;
+}
+
+/* TABLE LINK ----------------------------------------------*/
+.tableLink {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #000000;
+	text-decoration: underline;
+}
+/* 
+a.tableLink:hover {
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #3B9204;
+	text-decoration: underline;
+	} */
+
+.tableLink2 {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #4D4E4E;
+	text-decoration: underline;
+	}
+
+a.tableLink2:hover {
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #020F18;
+	text-decoration: underline;
+	}
+
+
+/* TITLES --------------------------------------------------- */
+.question {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #000000;
+	text-decoration: none;
+	}
+
+.rightColTitles {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+    font-weight: bold;
+	color: #ffffff;
+	text-decoration: none;
+	}
+
+
+/* TIMETABLE RULES   George--------------------------------------------------- */
+
+.travelModeHeader {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 95%;
+	font-weight: bold;
+	color: #464545;
+	padding: 2px 0px 2px 9px;
+	background: #EBEBEB;
+}
+
+.tramRouteNumberBG {
+ 	background: #99CC00;
+ 	padding-left: 18px;
+ 	padding-right: 18px;
+}
+
+
+.busRouteNumberBG {
+  	background: #FFC000;
+ 	padding-left: 18px;
+ 	padding-right: 18px;
+}
+
+.trainRouteNumberBG {
+  	background: #6FBEF4;
+ 	padding-left: 18px;
+ 	padding-right: 18px;
+}
+
+.vlineRouteNumberBG {
+  	background: #A5A5C1;
+ 	padding-left: 18px;
+ 	padding-right: 18px;
+}
+
+.SearchSubHeaderLink {
+	font-size: 65%;
+	font-family: arial, verdana, helvetica, sans-serif;
+  	font-weight: normal;
+  	color: #020F18;
+}
+
+a.SearchSubHeaderLink {
+  	color: #020F18;
+}
+
+a.SearchSubHeaderLink:hover {
+  	color: #ffffff;
+}
+
+.SearchResultsSubHeader {
+	font-size: 65%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #000000;
+	font-weight: normal;
+	BACKGROUND: #C2C9CC;
+}
+
+.searchResult {
+	font-size: 80%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #4D4E4E;
+}
+
+.searchResultDetails {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #cc0000;
+}
+
+.tableText2 {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #4D4E4E;
+}
+
+
+
+
+/* TIMETABLE RULES   Kel--------------------------------------------------- */
+
+.tramTimetable a { color: #2E7700 !important; }
+.tramTimetable a:hover { color: #64A635 !important; }
+.busTimetable a { color: #CD812F !important; }
+.busTimetable a:hover { color: #F5A045 !important; }
+.trainTimetable a { color: #22587B !important; }
+.vlineTimetable a { color: #000080 !important; }
+.trainTimetable a:hover { color: #2C7AAB !important; }
+.vlineTimetable a:hover { color: #000080 !important; }
+
+em {
+	font-style: normal;
+	font-weight: bold;
+	}
+
+em.tram { color: #285E06; }
+em.bus { color: #FB7600;  }
+em.train { color: #125299;}
+em.vline { color: #000080;}
+
+
+.tramTimetableHeader h1, .busTimetableHeader h1, .trainTimetableHeader h1, .vlineTimetableHeader h1 {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 120%;
+	font-weight: bold;
+	color: #ffffff;
+	margin: 6px 10px 6px 0;
+	}
+
+.tramTimetableHeader { background: #99CC00 url(/web/20050624111615im_/http://metlinkmelbourne.com/images/elements/header_tram_bg.gif) no-repeat; }
+.busTimetableHeader { background: #FFC000 url(/web/20050624111615im_/http://metlinkmelbourne.com/images/elements/header_bus_bg.gif) no-repeat; }
+.trainTimetableHeader { background: #008FF0 url(/web/20050624111615im_/http://metlinkmelbourne.com/images/elements/header_train_bg.gif) no-repeat; }
+.vlineTimetableHeader { background: #000080 url(/web/20050624111615im_/http://metlinkmelbourne.com/images/elements/header_vline_bg.gif) no-repeat; }
+
+.tramTimetableHeaderBG { background: #99CC00; color: #285E06;
+	font-size: 90%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	letter-spacing: 1px;
+}
+.busTimetableHeaderBG { background: #FFC000; color: #FB7600;
+	font-size: 90%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	letter-spacing: 1px;
+}
+.trainTimetableHeaderBG { background: #008FF0; color: #125299;
+	font-size: 90%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	letter-spacing: 1px;
+}
+.vlineTimetableHeaderBG { background: #000080; color: #FFFFFF;
+	font-size: 90%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	letter-spacing: 1px;
+}
+
+.routeNumber h2 {
+	text-transform: uppercase;
+	color: #ffffff;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 95%;
+	font-weight: bold;
+	margin: 0;
+	}
+
+.borderBottom {
+	border-bottom: solid 1px #DCDCDC;
+	}
+
+.landmarkIcon {
+	margin: 6px 0 0 3px;
+	border: solid 1px red;
+	}
+
+
+/* LEFT NAV -------------------------------------------------*/
+.leftnavTable {
+	margin-left: 0px;
+	margin-right: 0px;
+	}
+
+.leftnav {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #ffffff;
+	text-decoration: none;
+	}
+
+a.leftnav:hover {
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #CC0000;
+	text-decoration: none;
+	}
+
+a.leftnav:visited {
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #ffffff;
+	text-decoration: none;
+	}
+
+
+/* LEFT NAV - subnav --------------------------------------*/
+.leftSubnav {
+	font-size: 70%;
+	font-family: arial, helvetica, verdana, sans-serif;
+	color: #ffffff;
+	text-decoration: none;
+	}
+
+a.leftSubnav:hover {
+	font-family: arial, helvetica, verdana, sans-serif;
+	color: #CC0000;
+	text-decoration: none;
+	}
+
+/* LEFT NAV - leftnavOn  (highlights link when tabbing through left nav)------------*/
+
+.leftnavOn {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #CC0000;
+	text-decoration: none;
+	background-color: #E6EBE8;
+	}
+
+.navOn .leftnav, .navOn .leftSubnav {
+	color: #CC0000 !important;
+	}
+
+a.leftnavOn:hover {
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #CC0000;
+	text-decoration: none;
+	}
+
+
+/* LEFT NAV - subnavOn (highlights link when tabbing through left nav)------------*/
+.leftSubnavOn {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #CC0000;
+	text-decoration: none;
+	background-color: #E6EBE8;
+	}
+
+a.leftSubnavOn:hover {
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #CC0000;
+	text-decoration: none;
+	}
+
+
+/* NAV - on - off --------------------------------------*/
+.navOn {
+	color: #CC0000;
+	background-color: #E6EBE8;
+	text-decoration: none;
+}
+.navOff {
+	background-color: #434B4C;
+	text-decoration: none;
+}
+
+/* LINK SM BLACK --------------------------------------*/
+.linkMedBlack {
+	font-size: 70%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #333333;
+	text-decoration: underline;
+	}
+
+a.linkMedBlack:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+
+/* FORM STYLES --------------------------------------*/
+fieldset {
+	border: 0;
+}
+.formTitle, .formtitle {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #CC0000;
+	text-decoration: none;
+}
+.formBody, .formbody {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #474747;
+	text-decoration: none;
+}
+.formText, .formtext {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #5A5A5A;
+	background: #FFFFFF;
+}
+.formSelect, .formselect {
+	font-size: 75%;
+	font-family: arial, verdana, helvetica, sans-serif;
+	color: #5A5A5A;
+	background: #FFFFFF;
+}
+.textarea {
+	overflow: auto;
+	color: #5A5A5A;
+	font-weight: normal;
+	font-size: 75%;;
+	font-family: arial, verdana, helvetica, sans-serif;
+	background: #FFFFFF;
+}
+
+/* TRAIN TRIP PLANNER STYLES --------------------------------------*/
+
+.tripNumber  {
+	font-family: arial, verdana, helvetia, sans-serif ;
+	color: #000000;
+	font-weight: normal;
+	font-size: 70%;
+}
+.mins	{
+	font-family: arial, verdana, helvetia, sans-serif ;
+	color: #49BD00;
+	font-weight: normal;
+	font-size: 70%;
+}
+.possibleTrips {
+	font-family: arial, verdana, helvetia, sans-serif ;
+	color: #49BD00;
+	font-weight: normal;
+	font-size: 70%;
+}
+
+.greenTitle {
+	font-size: 75%;
+	font-weight: bold;
+	color: #ffffff;
+	letter-spacing: 0px;
+	background-color: #49BD00;
+}
+
+.mapNav a {
+	text-transform: uppercase;
+	color: #000;
+	text-decoration: none;
+	font-size: 90%;
+	}
+
+.mapNav a:hover {
+	text-decoration: underline;
+	}
+	
+/* INTRANET STYLES --------------------------------------*/
+.tableTitle3 {
+	font-family: arial, verdana, helvetia, sans-serif ;
+	color: #4D4E4E;
+	background: #EBEBEB;
+	font-weight: bold;
+	font-size: 75%;
+}
+.tableText3 {
+	font-family: arial, verdana, helvetia, sans-serif ;
+	color: #4D4E4E;
+	background: #F4F5F5;
+	font-weight: normal;
+	font-size: 75%;
+}
+.contactText {
+	padding: 2px 0px 2px 9px;
+}	.bodytextRedBold {  font-family: bodytextRedBold; font-size: 80%; font-weight: bold; color: #FF0000}
+
+/*
+     FILE ARCHIVED ON 11:16:15 Jun 24, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:28:38 Jan 17, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 91.566
+  exclusion.robots: 0.081
+  exclusion.robots.policy: 0.072
+  cdx.remote: 0.065
+  esindex: 0.01
+  LoadShardBlock: 43.243 (3)
+  PetaboxLoader3.datanode: 51.768 (4)
+  load_resource: 104.398
+  PetaboxLoader3.resolve: 59.909
+*/
