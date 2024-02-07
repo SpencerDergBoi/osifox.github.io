@@ -348,7 +348,7 @@ img {
 }
 a {
   text-decoration:none;
-  color:#0073cf
+  color:#9557c3
 }
 a:hover {
   text-decoration:underline
@@ -558,7 +558,7 @@ body:not(.home) .mobile-logo {
 .resize-nav a:hover {
   text-decoration:none;
   color:#000;
-  background:#0073cf
+  background:#9557c3
 }
 .search-form input[type="text"] {
   border:0;
@@ -920,7 +920,7 @@ h2 {
   padding-bottom:10px;
   margin-bottom:5px;
   font:22px/26px 'neosans-regular', Arial, Helvetica, sans-serif;
-  color:#0073cf
+  color:#9557c3
 }
 h2 table {
   margin-top:15px
@@ -995,11 +995,11 @@ a.btn {
   background:#8e8e8e
 }
 .btn.blue {
-  background:#0073cf
+  background:#9557c3
 }
 .btn:hover {
   text-decoration:none;
-  background:#0073cf
+  background:#9557c3
 }
 #main ul {
   margin:0 0 27px;
@@ -1031,7 +1031,7 @@ table th {
   padding:10px 13px 8px;
   text-align:left;
   color:#fff;
-  background:#0073cf;
+  background:#9557c3;
   font:14px 'neosans-medium', Arial, Helvetica, sans-serif;
   text-transform:uppercase;
   font-weight:normal !important
@@ -1349,7 +1349,7 @@ button.ui-widget {
   border-top-left-radius:5px;
   border-top-right-radius:5px;
   height:35px;
-  background:#0073cf
+  background:#9557c3
 }
 .ui-datepicker-prev,
 .ui-datepicker-next {
@@ -1582,7 +1582,7 @@ button.ui-widget {
 }
 .gallery1 a.caption:hover {
   text-decoration:none;
-  color:#0073cf
+  color:#9557c3
 }
 .gallery1 .caption .title {
   display:block;
@@ -1754,7 +1754,7 @@ button.ui-widget {
 }
 .news-block h2 a:hover {
   text-decoration:none;
-  color:#0073cf
+  color:#9557c3
 }
 .news-block p {
   margin:0 0 25px
@@ -2322,7 +2322,7 @@ a.twitter-box {
   font:14px/26px 'neosans-regular', Arial, Helvetica, sans-serif;
   text-align:center;
   color:#fff;
-  background:#0073cf
+  background:#9557c3
 }
 .gallery2 .row:first-child .title {
   border-top:1px solid #3095c3
@@ -2519,7 +2519,7 @@ a.twitter-box {
   background:#000
 }
 .timetable-form input[type="submit"]:hover {
-  background:#0073cf
+  background:#9557c3
 }
 .timetable-box {
   padding:0 0 0;
@@ -2964,14 +2964,14 @@ span.logo-pt {
   transition:all 0.3s ease
 }
 #main #menu-line-and-station-links li a:hover {
-  color:#0073cf;
+  color:#9557c3;
   text-decoration:none
 }
 #main #menu-line-and-station-links li a:hover svg path {
-  fill:#0073cf
+  fill:#9557c3
 }
 #main #menu-line-and-station-links li:not(.access) a:hover svg path {
-  stroke:#0073cf
+  stroke:#9557c3
 }
 #main #menu-line-and-station-links li:before {
   display:none
@@ -3112,7 +3112,7 @@ span.logo-pt {
   margin:0;
   overflow:hidden;
   width:100%;
-  background:#0073cf
+  background:#9557c3
 }
 #main .line-details li {
   position:relative;
@@ -3216,7 +3216,7 @@ span.logo-pt {
   width:23.4%
 }
 .line-table .station a {
-  color:#0073cf
+  color:#9557c3
 }
 .line-table .facilities {
   width:23.7%
@@ -3750,7 +3750,7 @@ span.logo-pt {
   background:#004871
 }
 .service-area .unit.theme4 {
-  background:#0073cf
+  background:#9557c3
 }
 .service-area .unit.theme5 {
   background:#d01a6c
@@ -4077,7 +4077,7 @@ div.lightbox h1 {
   font-size:30px;
   line-height:32px;
   padding:33px 50px 28px 38px;
-  background:#0073cf;
+  background:#9557c3;
   color:#fff;
   margin:0 0 23px
 }
@@ -4205,7 +4205,7 @@ div.lightbox .details-form .switch label {
 }
 div.lightbox .details-form .switch .slide-button {
   border-radius:6px 0 0 6px;
-  background-color:#0073cf;
+  background-color:#9557c3;
   box-shadow:0 1px 1px 0 rgba(0,0,0,0.2) inset;
   -webkit-box-shadow:0 1px 1px 0 rgba(0,0,0,0.2) inset;
   border:none 0;
@@ -4289,7 +4289,7 @@ div.lightbox .details-form .select-03 {
 }
 .timetable-form .switch .slide-button {
   border-radius:6px 0 0 6px;
-  background-color:#0073cf;
+  background-color:#9557c3;
   box-shadow:0 1px 1px 0 rgba(0,0,0,0.2) inset;
   -webkit-box-shadow:0 1px 1px 0 rgba(0,0,0,0.2) inset;
   border:none 0;
@@ -4911,7 +4911,7 @@ hr {
   position:relative;
   padding:39px 0;
   color:#fff;
-  background-color:#0073cf
+  background-color:#9557c3
 }
 #main .page-tabs .tabset li a:hover {
   text-decoration:none
@@ -4970,7 +4970,7 @@ h3 b {
   background:#84216B !important
 }
 .btn-purple:hover {
-  background:#0073cf !important
+  background:#9557c3 !important
 }
 table.nolines td {
   border-bottom:none !important
@@ -5379,7 +5379,7 @@ table.nolines td {
   }
   #header__top {
     align-items:center;
-    background-color:#0073cf;
+    background-color:#9557c3;
     box-shadow:0 1px 1px 0 rgba(0,0,0,0.3);
     height:57px;
     left:0;
@@ -5519,7 +5519,7 @@ table.nolines td {
     height:81px
   }
   .nav-holder {
-    background:#0073cf
+    background:#9557c3
   }
   .nav-bar {
     margin:0 auto;
@@ -5901,7 +5901,7 @@ table.nolines td {
   }
   .gallery1 .pagination li a:hover,
   .gallery1 .pagination li.active a {
-    background:#0073cf
+    background:#9557c3
   }
   .gallery1 .btn-prev,
   .gallery1 .btn-next,
@@ -7209,7 +7209,7 @@ table.nolines td {
   font-family:'neosans-regular'
 }
 .cancellations h2 {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff;
   padding:10px 0px;
   padding-left:20px;
@@ -7234,10 +7234,10 @@ table.nolines td {
   margin-top:20px
 }
 .search .navigation .current {
-  background-color:#0073cf
+  background-color:#9557c3
 }
 .search .navigation .wp-paginate a:hover {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff
 }
 .page-heading-planned-works {
@@ -7297,7 +7297,7 @@ table.nolines td {
 }
 .line-info-map-legend-item-maintenance .pw-legend-marker,
 .residential-maintenance {
-  background:#0073CF
+  background:#9557c3
 }
 .line-info-map-legend-item-level-crossing .pw-legend-marker,
 .residential-level-line-info-map-legend-item-level-crossing {
@@ -7369,12 +7369,12 @@ table.nolines td {
   right:-7px
 }
 .mCSB_scrollTools .mCSB_draggerRail {
-  background-color:#0073cf
+  background-color:#9557c3
 }
 .line-info-content h3 {
   margin-top:0;
   margin-right:40px;
-  color:#0073cf;
+  color:#9557c3;
   font-family:'neosans-regular';
   font-weight:500;
   font-size:18px;
@@ -7406,7 +7406,7 @@ table.nolines td {
 }
 .pw-more-details {
   font-family:"neosans-regular";
-  border:1px solid #0073cf;
+  border:1px solid #9557c3;
   padding:8px;
   padding-left:14px;
   padding-right:14px;
@@ -7434,7 +7434,7 @@ table.nolines td {
   width:3px
 }
 .pw-more-details:hover {
-  background:#0073cf;
+  background:#9557c3;
   color:white
 }
 .updates-item+.updates-item {
@@ -7480,7 +7480,7 @@ table.nolines td {
   z-index:1000
 }
 .line-info-content .close svg {
-  border:1px solid #0073cf;
+  border:1px solid #9557c3;
   border-radius:100px;
   transition:all 0.2s ease-in-out;
   -moz-transition:all 0.2s ease-in-out;
@@ -7489,7 +7489,7 @@ table.nolines td {
   -ms-transition:all 0.2s ease-in-out
 }
 .line-info-content .close:hover svg {
-  background-color:#0073cf
+  background-color:#9557c3
 }
 .line-info-content .close:hover svg path {
   fill:#fff
@@ -7535,13 +7535,13 @@ table.nolines td {
 }
 .line-info-content .btn-blue,
 .planned-works-all .btn-blue {
-  border:1px solid #0073cf;
+  border:1px solid #9557c3;
   border-radius:4px;
   font-size:14px;
   text-transform:none;
   position:relative;
   top:-4px;
-  color:#0073cf;
+  color:#9557c3;
   transition:all 0.2s ease
 }
 .planned-works-all .btn-blue {
@@ -7549,7 +7549,7 @@ table.nolines td {
 }
 .btn-blue-active,
 .btn-blue:hover {
-  background-color:#0073cf !important;
+  background-color:#9557c3 !important;
   color:#fff !important
 }
 .page-planned-work {
@@ -7656,7 +7656,7 @@ table.nolines td {
   padding-right:0px
 }
 .single-planned-work .section-heading {
-  color:#0073cf;
+  color:#9557c3;
   font-size:24px;
   margin:0;
   text-transform:uppercase;
@@ -7716,7 +7716,7 @@ table.nolines td {
   position:relative
 }
 .has-line-dropdown .select-options ul li a:before {
-  background-color:#0073cf;
+  background-color:#9557c3;
   content:"";
   height:15px;
   left:12px;
@@ -7772,7 +7772,7 @@ table.nolines td {
 .planned-works-all .select-area .center[data-title='flemington']:before,
 .pw__lines>div[data-title='flemington']:after,
 #pw__popup-content-lines>div[data-title='flemington']:after {
-  background-color:#0073CF !important
+  background-color:#9557c3 !important
 }
 .has-line-dropdown .select-options ul li[data-title='frankston'] a:before,
 .planned-works-all .select-area .center[data-title='frankston']:before,
@@ -8420,19 +8420,19 @@ table.nolines td {
 }
 @keyframes colors {
   0% {
-    stroke:#0073cf
+    stroke:#9557c3
   }
   25% {
-    stroke:#0073cf
+    stroke:#9557c3
   }
   50% {
-    stroke:#0073cf
+    stroke:#9557c3
   }
   75% {
-    stroke:#0073cf
+    stroke:#9557c3
   }
   100% {
-    stroke:#0073cf
+    stroke:#9557c3
   }
 }
 @keyframes dash {
@@ -8665,7 +8665,7 @@ table.nolines td {
   transition:opacity 0.6s ease
 }
 #pw__popup-header {
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-bottom:solid 1px rgba(0,0,0,0.2);
   color:#fff;
   font-family:"neosans-regular";
@@ -8679,7 +8679,7 @@ table.nolines td {
   z-index:11
 }
 #pw__popup-content-title {
-  color:#0073cf;
+  color:#9557c3;
   font-family:"neosans-regular";
   font-size:19px;
   margin-bottom:27px
@@ -9258,7 +9258,7 @@ table.nolines td {
   align-items:center
 }
 #t__header-times-date .ui-datepicker-calendar td.ui-datepicker-current-day a {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff
 }
 #t__header-times-date .ui-datepicker-other-month span {
@@ -9269,7 +9269,7 @@ table.nolines td {
   color:rgba(0,0,0,0.8)
 }
 #t__header-times-date .ui-datepicker-calendar a:hover {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff
 }
 #t__header-times-date .ui-widget-content a {
@@ -9310,7 +9310,7 @@ table.nolines td {
   width:150px
 }
 #t__header-times-time-inner:before {
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-radius:5px;
   content:"";
   display:block;
@@ -9323,7 +9323,7 @@ table.nolines td {
   width:5px
 }
 #t__header-times-time-current {
-  background-color:#0073cf;
+  background-color:#9557c3;
   height:52px;
   position:absolute;
   width:2px;
@@ -9344,7 +9344,7 @@ table.nolines td {
   width:20px
 }
 .t__header-times-time-el.active {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff
 }
 .t__header-times-time-el[data-time='12'] {
@@ -9477,15 +9477,15 @@ table.nolines td {
   width:22px
 }
 #t__header-times-time-ampm>div.active {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff
 }
 #t__header-times-time-am:hover,
 #t__header-times-time-pm:hover,
 #t__header-times-time-am:active,
 #t__header-times-time-pm:active {
-  background-color:#0073cf;
-  border-color:#0073cf;
+  background-color:#9557c3;
+  border-color:#9557c3;
   color:#fff
 }
 #t__header-times-time-am {
@@ -9817,7 +9817,7 @@ table.nolines td {
     pointer-events:auto
   }
   ul#nav .sub-menu {
-    background-color:#0073cf;
+    background-color:#9557c3;
     box-shadow:0px 2px 20px rgba(0,0,0,0.5);
     font-family:"Calibri";
     font-size:15px;
@@ -9858,8 +9858,8 @@ table.nolines td {
   height:50px;
   font-family:neosans-regular;
   font-weight:normal;
-  background-color:#0073CF;
-  border-color:#0073CF;
+  background-color:#9557c3;
+  border-color:#9557c3;
   color:white;
   padding:12px;
   font-size:14px
@@ -9943,7 +9943,7 @@ table.nolines td {
 }
 .app-next4departures .row .platform .platform-number {
   font-size:14px;
-  background-color:#0073CF;
+  background-color:#9557c3;
   border-radius:6px;
   color:#fff;
   width:22px;
@@ -10038,7 +10038,7 @@ table.nolines td {
 .app-next4departures .row .realtime>div {
   width:6px;
   height:6px;
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-radius:100%;
   display:inline-block;
   -webkit-animation:sk-bouncedelay 1.8s infinite ease-in-out both;
@@ -10125,7 +10125,7 @@ table.nolines td {
 .hb__trip .platform .platform-number {
   display:inline-block;
   font-size:14px;
-  background-color:#0073CF;
+  background-color:#9557c3;
   border-radius:6px;
   color:#fff;
   width:22px;
@@ -10205,7 +10205,7 @@ table.nolines td {
   display:none
 }
 #sc__header {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff;
   font-family:"neosans-regular";
   display:flex;
@@ -10819,7 +10819,7 @@ article .banner img {
   transition:fill 0.3s ease
 }
 #article__share a:last-child:hover svg path {
-  fill:#0073CF
+  fill:#9557c3
 }
 #article__comments {
   border-top:1px solid #DBDBDB;
@@ -10956,7 +10956,7 @@ article .banner img {
   min-width:unset !important
 }
 #article__comments form input[type=submit] {
-  background-color:#0073cf;
+  background-color:#9557c3;
   border:none;
   border-radius:4px;
   color:#fff;
@@ -11457,7 +11457,7 @@ article .banner img {
 }
 #page__general .btn.blue {
   align-items:center;
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-radius:.25rem;
   box-sizing:border-box;
   box-shadow:none;
@@ -11838,7 +11838,7 @@ article .banner img {
 }
 #ui-datepicker-div .ui-datepicker-calendar .ui-datepicker-today a,
 #ui-datepicker-div .ui-datepicker-calendar a:hover {
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-radius:50%
 }
 #page__general .gform_confirmation_wrapper {
@@ -12053,10 +12053,10 @@ article .banner img {
   display:none
 }
 #page__general .gform_wrapper form .gform_body>ul>li .ginput_container_radio ul li input:checked+label:before {
-  border-color:#0073cf
+  border-color:#9557c3
 }
 #page__general .gform_wrapper form .gform_body>ul>li .ginput_container_radio ul li input:checked+label:after {
-  background-color:#0073cf;
+  background-color:#9557c3;
   content:"";
   border-radius:50%;
   box-sizing:border-box;
@@ -12195,7 +12195,7 @@ article .banner img {
 #page__general .gform_wrapper form input[type=submit] {
   -webkit-appearance:none;
   align-items:center;
-  background-color:#0073cf;
+  background-color:#9557c3;
   background-image:url(/web/20210405182826im_/https://ds12k1658w1f2.cloudfront.net/wp-content/themes/metrotrains/library/img/icon-chevron.svg);
   background-position:calc(50% + 20px) calc(50% - 1px);
   background-repeat:no-repeat;
@@ -12255,7 +12255,7 @@ body img.gform_ajax_spinner {
   border-bottom:.0625rem solid rgba(0,0,0,0.2)
 }
 #faqs .faq__title {
-  color:#0073cf;
+  color:#9557c3;
   cursor:pointer;
   font-size:1.25rem;
   line-height:1.5;
@@ -13792,7 +13792,7 @@ h2.flex a#pw__notification:hover {
   background-color:#E8EDEF
 }
 #pw__calendar .fc-daygrid-day.fc-day-today .fc-daygrid-day-number {
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-radius:50%;
   color:#fff;
   display:flex;
@@ -13864,10 +13864,10 @@ h2.flex a#pw__notification:hover {
   padding-right:1rem
 }
 #pw__calendar-options .pw__calendar-options-checks#pw__calendar-options-type>div.all:before {
-  border-color:#0073cf
+  border-color:#9557c3
 }
 #pw__calendar-options .pw__calendar-options-checks#pw__calendar-options-type>div.all.active:before {
-  background-color:#0073cf
+  background-color:#9557c3
 }
 #pw__calendar-options .pw__calendar-options-checks>div {
   cursor:pointer;
@@ -13876,7 +13876,7 @@ h2.flex a#pw__notification:hover {
   position:relative
 }
 #pw__calendar-options .pw__calendar-options-checks>div:before {
-  border:.0625rem solid #0073cf;
+  border:.0625rem solid #9557c3;
   box-sizing:border-box;
   content:"";
   height:.8125rem;
@@ -13899,7 +13899,7 @@ h2.flex a#pw__notification:hover {
   width:.6875rem
 }
 #pw__calendar-options .pw__calendar-options-checks>div.active:before {
-  background-color:#0073cf;
+  background-color:#9557c3;
   border:none
 }
 #pw__calendar-options .pw__calendar-options-checks>div.active:after {
@@ -14110,7 +14110,7 @@ h2.flex a#pw__notification:hover {
 #pw__single-left .btn.blue.download {
   margin:10px 0;
   align-items:center;
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-radius:.25rem;
   box-sizing:border-box;
   box-shadow:none;
@@ -14388,7 +14388,7 @@ h2.flex a#pw__notification:hover {
 }
 #pw__single-right .pw__single-station-group-inner>div:hover:before,
 #pw__single-right .pw__single-station-group-inner>div:hover:after {
-  border-color:#0073CF
+  border-color:#9557c3
 }
 #pw__single-right .pw__single-station-group-inner>div .pw__popup-wrap {
   display:block;
@@ -15049,7 +15049,7 @@ h2.flex a#pw__notification:hover {
 }
 #acc__nav ul li a:hover,
 #acc__nav ul li a.active {
-  color:#0073cf;
+  color:#9557c3;
   text-decoration:none
 }
 #acc__nav ul li:before {
@@ -15081,7 +15081,7 @@ h2.flex a#pw__notification:hover {
   margin-bottom:0
 }
 #acc__note {
-  color:#0073cf;
+  color:#9557c3;
   font-size:.875rem;
   position:absolute;
   right:20px
@@ -15353,7 +15353,7 @@ h2.flex a#pw__notification:hover {
   background-repeat:no-repeat
 }
 .acc__stations .acc__table-row .acc__table-cell .highlight {
-  color:#0073cf
+  color:#9557c3
 }
 .acc__stations .acc__table-row .acc__table-cell.has-station-tooltip {
   cursor:pointer
@@ -15841,7 +15841,7 @@ img {
 }
 a {
   text-decoration:none;
-  color:#0073cf
+  color:#9557c3
 }
 a:hover {
   text-decoration:underline
@@ -16051,7 +16051,7 @@ body:not(.home) .mobile-logo {
 .resize-nav a:hover {
   text-decoration:none;
   color:#000;
-  background:#0073cf
+  background:#9557c3
 }
 .search-form input[type="text"] {
   border:0;
@@ -16121,7 +16121,7 @@ body:not(.home) .mobile-logo {
   margin-left:313px
 }
 #nav {
-  background:#0073cf;
+  background:#9557c3;
   margin:0;
   padding:0;
   display:flex;
@@ -16413,7 +16413,7 @@ h2 {
   padding-bottom:10px;
   margin-bottom:5px;
   font:22px/26px 'neosans-regular', Arial, Helvetica, sans-serif;
-  color:#0073cf
+  color:#9557c3
 }
 h2 table {
   margin-top:15px
@@ -16488,11 +16488,11 @@ a.btn {
   background:#8e8e8e
 }
 .btn.blue {
-  background:#0073cf
+  background:#9557c3
 }
 .btn:hover {
   text-decoration:none;
-  background:#0073cf
+  background:#9557c3
 }
 #main ul {
   margin:0 0 27px;
@@ -16524,7 +16524,7 @@ table th {
   padding:10px 13px 8px;
   text-align:left;
   color:#fff;
-  background:#0073cf;
+  background:#9557c3;
   font:14px 'neosans-medium', Arial, Helvetica, sans-serif;
   text-transform:uppercase;
   font-weight:normal !important
@@ -16842,7 +16842,7 @@ button.ui-widget {
   border-top-left-radius:5px;
   border-top-right-radius:5px;
   height:35px;
-  background:#0073cf
+  background:#9557c3
 }
 .ui-datepicker-prev,
 .ui-datepicker-next {
@@ -17075,7 +17075,7 @@ button.ui-widget {
 }
 .gallery1 a.caption:hover {
   text-decoration:none;
-  color:#0073cf
+  color:#9557c3
 }
 .gallery1 .caption .title {
   display:block;
@@ -17247,7 +17247,7 @@ button.ui-widget {
 }
 .news-block h2 a:hover {
   text-decoration:none;
-  color:#0073cf
+  color:#9557c3
 }
 .news-block p {
   margin:0 0 25px
@@ -17815,7 +17815,7 @@ a.twitter-box {
   font:14px/26px 'neosans-regular', Arial, Helvetica, sans-serif;
   text-align:center;
   color:#fff;
-  background:#0073cf
+  background:#9557c3
 }
 .gallery2 .row:first-child .title {
   border-top:1px solid #3095c3
@@ -18012,7 +18012,7 @@ a.twitter-box {
   background:#000
 }
 .timetable-form input[type="submit"]:hover {
-  background:#0073cf
+  background:#9557c3
 }
 .timetable-box {
   padding:0 0 0;
@@ -18457,14 +18457,14 @@ span.logo-pt {
   transition:all 0.3s ease
 }
 #main #menu-line-and-station-links li a:hover {
-  color:#0073cf;
+  color:#9557c3;
   text-decoration:none
 }
 #main #menu-line-and-station-links li a:hover svg path {
-  fill:#0073cf
+  fill:#9557c3
 }
 #main #menu-line-and-station-links li:not(.access) a:hover svg path {
-  stroke:#0073cf
+  stroke:#9557c3
 }
 #main #menu-line-and-station-links li:before {
   display:none
@@ -18605,7 +18605,7 @@ span.logo-pt {
   margin:0;
   overflow:hidden;
   width:100%;
-  background:#0073cf
+  background:#9557c3
 }
 #main .line-details li {
   position:relative;
@@ -18709,7 +18709,7 @@ span.logo-pt {
   width:23.4%
 }
 .line-table .station a {
-  color:#0073cf
+  color:#9557c3
 }
 .line-table .facilities {
   width:23.7%
@@ -19243,7 +19243,7 @@ span.logo-pt {
   background:#004871
 }
 .service-area .unit.theme4 {
-  background:#0073cf
+  background:#9557c3
 }
 .service-area .unit.theme5 {
   background:#d01a6c
@@ -19570,7 +19570,7 @@ div.lightbox h1 {
   font-size:30px;
   line-height:32px;
   padding:33px 50px 28px 38px;
-  background:#0073cf;
+  background:#9557c3;
   color:#fff;
   margin:0 0 23px
 }
@@ -19698,7 +19698,7 @@ div.lightbox .details-form .switch label {
 }
 div.lightbox .details-form .switch .slide-button {
   border-radius:6px 0 0 6px;
-  background-color:#0073cf;
+  background-color:#9557c3;
   box-shadow:0 1px 1px 0 rgba(0,0,0,0.2) inset;
   -webkit-box-shadow:0 1px 1px 0 rgba(0,0,0,0.2) inset;
   border:none 0;
@@ -19782,7 +19782,7 @@ div.lightbox .details-form .select-03 {
 }
 .timetable-form .switch .slide-button {
   border-radius:6px 0 0 6px;
-  background-color:#0073cf;
+  background-color:#9557c3;
   box-shadow:0 1px 1px 0 rgba(0,0,0,0.2) inset;
   -webkit-box-shadow:0 1px 1px 0 rgba(0,0,0,0.2) inset;
   border:none 0;
@@ -20404,7 +20404,7 @@ hr {
   position:relative;
   padding:39px 0;
   color:#fff;
-  background-color:#0073cf
+  background-color:#9557c3
 }
 #main .page-tabs .tabset li a:hover {
   text-decoration:none
@@ -20463,7 +20463,7 @@ h3 b {
   background:#84216B !important
 }
 .btn-purple:hover {
-  background:#0073cf !important
+  background:#9557c3 !important
 }
 table.nolines td {
   border-bottom:none !important
@@ -20872,7 +20872,7 @@ table.nolines td {
   }
   #header__top {
     align-items:center;
-    background-color:#0073cf;
+    background-color:#9557c3;
     box-shadow:0 1px 1px 0 rgba(0,0,0,0.3);
     height:57px;
     left:0;
@@ -21012,7 +21012,7 @@ table.nolines td {
     height:81px
   }
   .nav-holder {
-    background:#0073cf
+    background:#9557c3
   }
   .nav-bar {
     margin:0 auto;
@@ -21394,7 +21394,7 @@ table.nolines td {
   }
   .gallery1 .pagination li a:hover,
   .gallery1 .pagination li.active a {
-    background:#0073cf
+    background:#9557c3
   }
   .gallery1 .btn-prev,
   .gallery1 .btn-next,
@@ -22702,7 +22702,7 @@ table.nolines td {
   font-family:'neosans-regular'
 }
 .cancellations h2 {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff;
   padding:10px 0px;
   padding-left:20px;
@@ -22727,10 +22727,10 @@ table.nolines td {
   margin-top:20px
 }
 .search .navigation .current {
-  background-color:#0073cf
+  background-color:#9557c3
 }
 .search .navigation .wp-paginate a:hover {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff
 }
 .page-heading-planned-works {
@@ -22790,7 +22790,7 @@ table.nolines td {
 }
 .line-info-map-legend-item-maintenance .pw-legend-marker,
 .residential-maintenance {
-  background:#0073CF
+  background:#9557c3
 }
 .line-info-map-legend-item-level-crossing .pw-legend-marker,
 .residential-level-line-info-map-legend-item-level-crossing {
@@ -22862,12 +22862,12 @@ table.nolines td {
   right:-7px
 }
 .mCSB_scrollTools .mCSB_draggerRail {
-  background-color:#0073cf
+  background-color:#9557c3
 }
 .line-info-content h3 {
   margin-top:0;
   margin-right:40px;
-  color:#0073cf;
+  color:#9557c3;
   font-family:'neosans-regular';
   font-weight:500;
   font-size:18px;
@@ -22899,7 +22899,7 @@ table.nolines td {
 }
 .pw-more-details {
   font-family:"neosans-regular";
-  border:1px solid #0073cf;
+  border:1px solid #9557c3;
   padding:8px;
   padding-left:14px;
   padding-right:14px;
@@ -22927,7 +22927,7 @@ table.nolines td {
   width:3px
 }
 .pw-more-details:hover {
-  background:#0073cf;
+  background:#9557c3;
   color:white
 }
 .updates-item+.updates-item {
@@ -22973,7 +22973,7 @@ table.nolines td {
   z-index:1000
 }
 .line-info-content .close svg {
-  border:1px solid #0073cf;
+  border:1px solid #9557c3;
   border-radius:100px;
   transition:all 0.2s ease-in-out;
   -moz-transition:all 0.2s ease-in-out;
@@ -22982,7 +22982,7 @@ table.nolines td {
   -ms-transition:all 0.2s ease-in-out
 }
 .line-info-content .close:hover svg {
-  background-color:#0073cf
+  background-color:#9557c3
 }
 .line-info-content .close:hover svg path {
   fill:#fff
@@ -23028,13 +23028,13 @@ table.nolines td {
 }
 .line-info-content .btn-blue,
 .planned-works-all .btn-blue {
-  border:1px solid #0073cf;
+  border:1px solid #9557c3;
   border-radius:4px;
   font-size:14px;
   text-transform:none;
   position:relative;
   top:-4px;
-  color:#0073cf;
+  color:#9557c3;
   transition:all 0.2s ease
 }
 .planned-works-all .btn-blue {
@@ -23042,7 +23042,7 @@ table.nolines td {
 }
 .btn-blue-active,
 .btn-blue:hover {
-  background-color:#0073cf !important;
+  background-color:#9557c3 !important;
   color:#fff !important
 }
 .page-planned-work {
@@ -23149,7 +23149,7 @@ table.nolines td {
   padding-right:0px
 }
 .single-planned-work .section-heading {
-  color:#0073cf;
+  color:#9557c3;
   font-size:24px;
   margin:0;
   text-transform:uppercase;
@@ -23209,7 +23209,7 @@ table.nolines td {
   position:relative
 }
 .has-line-dropdown .select-options ul li a:before {
-  background-color:#0073cf;
+  background-color:#9557c3;
   content:"";
   height:15px;
   left:12px;
@@ -23265,7 +23265,7 @@ table.nolines td {
 .planned-works-all .select-area .center[data-title='flemington']:before,
 .pw__lines>div[data-title='flemington']:after,
 #pw__popup-content-lines>div[data-title='flemington']:after {
-  background-color:#0073CF !important
+  background-color:#9557c3 !important
 }
 .has-line-dropdown .select-options ul li[data-title='frankston'] a:before,
 .planned-works-all .select-area .center[data-title='frankston']:before,
@@ -23913,19 +23913,19 @@ table.nolines td {
 }
 @keyframes colors {
   0% {
-    stroke:#0073cf
+    stroke:#9557c3
   }
   25% {
-    stroke:#0073cf
+    stroke:#9557c3
   }
   50% {
-    stroke:#0073cf
+    stroke:#9557c3
   }
   75% {
-    stroke:#0073cf
+    stroke:#9557c3
   }
   100% {
-    stroke:#0073cf
+    stroke:#9557c3
   }
 }
 @keyframes dash {
@@ -24158,7 +24158,7 @@ table.nolines td {
   transition:opacity 0.6s ease
 }
 #pw__popup-header {
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-bottom:solid 1px rgba(0,0,0,0.2);
   color:#fff;
   font-family:"neosans-regular";
@@ -24172,7 +24172,7 @@ table.nolines td {
   z-index:11
 }
 #pw__popup-content-title {
-  color:#0073cf;
+  color:#9557c3;
   font-family:"neosans-regular";
   font-size:19px;
   margin-bottom:27px
@@ -24751,7 +24751,7 @@ table.nolines td {
   align-items:center
 }
 #t__header-times-date .ui-datepicker-calendar td.ui-datepicker-current-day a {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff
 }
 #t__header-times-date .ui-datepicker-other-month span {
@@ -24762,7 +24762,7 @@ table.nolines td {
   color:rgba(0,0,0,0.8)
 }
 #t__header-times-date .ui-datepicker-calendar a:hover {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff
 }
 #t__header-times-date .ui-widget-content a {
@@ -24803,7 +24803,7 @@ table.nolines td {
   width:150px
 }
 #t__header-times-time-inner:before {
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-radius:5px;
   content:"";
   display:block;
@@ -24816,7 +24816,7 @@ table.nolines td {
   width:5px
 }
 #t__header-times-time-current {
-  background-color:#0073cf;
+  background-color:#9557c3;
   height:52px;
   position:absolute;
   width:2px;
@@ -24837,7 +24837,7 @@ table.nolines td {
   width:20px
 }
 .t__header-times-time-el.active {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff
 }
 .t__header-times-time-el[data-time='12'] {
@@ -24970,15 +24970,15 @@ table.nolines td {
   width:22px
 }
 #t__header-times-time-ampm>div.active {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff
 }
 #t__header-times-time-am:hover,
 #t__header-times-time-pm:hover,
 #t__header-times-time-am:active,
 #t__header-times-time-pm:active {
-  background-color:#0073cf;
-  border-color:#0073cf;
+  background-color:#9557c3;
+  border-color:#9557c3;
   color:#fff
 }
 #t__header-times-time-am {
@@ -25310,7 +25310,7 @@ table.nolines td {
     pointer-events:auto
   }
   ul#nav .sub-menu {
-    background-color:#0073cf;
+    background-color:#9557c3;
     box-shadow:0px 2px 20px rgba(0,0,0,0.5);
     font-family:"Calibri";
     font-size:15px;
@@ -25351,8 +25351,8 @@ table.nolines td {
   height:50px;
   font-family:neosans-regular;
   font-weight:normal;
-  background-color:#0073CF;
-  border-color:#0073CF;
+  background-color:#9557c3;
+  border-color:#9557c3;
   color:white;
   padding:12px;
   font-size:14px
@@ -25436,7 +25436,7 @@ table.nolines td {
 }
 .app-next4departures .row .platform .platform-number {
   font-size:14px;
-  background-color:#0073CF;
+  background-color:#9557c3;
   border-radius:6px;
   color:#fff;
   width:22px;
@@ -25531,7 +25531,7 @@ table.nolines td {
 .app-next4departures .row .realtime>div {
   width:6px;
   height:6px;
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-radius:100%;
   display:inline-block;
   -webkit-animation:sk-bouncedelay 1.8s infinite ease-in-out both;
@@ -25618,7 +25618,7 @@ table.nolines td {
 .hb__trip .platform .platform-number {
   display:inline-block;
   font-size:14px;
-  background-color:#0073CF;
+  background-color:#9557c3;
   border-radius:6px;
   color:#fff;
   width:22px;
@@ -25698,7 +25698,7 @@ table.nolines td {
   display:none
 }
 #sc__header {
-  background-color:#0073cf;
+  background-color:#9557c3;
   color:#fff;
   font-family:"neosans-regular";
   display:flex;
@@ -26312,7 +26312,7 @@ article .banner img {
   transition:fill 0.3s ease
 }
 #article__share a:last-child:hover svg path {
-  fill:#0073CF
+  fill:#9557c3
 }
 #article__comments {
   border-top:1px solid #DBDBDB;
@@ -26449,7 +26449,7 @@ article .banner img {
   min-width:unset !important
 }
 #article__comments form input[type=submit] {
-  background-color:#0073cf;
+  background-color:#9557c3;
   border:none;
   border-radius:4px;
   color:#fff;
@@ -26950,7 +26950,7 @@ article .banner img {
 }
 #page__general .btn.blue {
   align-items:center;
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-radius:.25rem;
   box-sizing:border-box;
   box-shadow:none;
@@ -27331,7 +27331,7 @@ article .banner img {
 }
 #ui-datepicker-div .ui-datepicker-calendar .ui-datepicker-today a,
 #ui-datepicker-div .ui-datepicker-calendar a:hover {
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-radius:50%
 }
 #page__general .gform_confirmation_wrapper {
@@ -27546,10 +27546,10 @@ article .banner img {
   display:none
 }
 #page__general .gform_wrapper form .gform_body>ul>li .ginput_container_radio ul li input:checked+label:before {
-  border-color:#0073cf
+  border-color:#9557c3
 }
 #page__general .gform_wrapper form .gform_body>ul>li .ginput_container_radio ul li input:checked+label:after {
-  background-color:#0073cf;
+  background-color:#9557c3;
   content:"";
   border-radius:50%;
   box-sizing:border-box;
@@ -27688,7 +27688,7 @@ article .banner img {
 #page__general .gform_wrapper form input[type=submit] {
   -webkit-appearance:none;
   align-items:center;
-  background-color:#0073cf;
+  background-color:#9557c3;
   background-image:url(/web/20210405182826im_/https://ds12k1658w1f2.cloudfront.net/wp-content/themes/metrotrains/library/img/icon-chevron.svg);
   background-position:calc(50% + 20px) calc(50% - 1px);
   background-repeat:no-repeat;
@@ -27748,7 +27748,7 @@ body img.gform_ajax_spinner {
   border-bottom:.0625rem solid rgba(0,0,0,0.2)
 }
 #faqs .faq__title {
-  color:#0073cf;
+  color:#9557c3;
   cursor:pointer;
   font-size:1.25rem;
   line-height:1.5;
@@ -29285,7 +29285,7 @@ h2.flex a#pw__notification:hover {
   background-color:#E8EDEF
 }
 #pw__calendar .fc-daygrid-day.fc-day-today .fc-daygrid-day-number {
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-radius:50%;
   color:#fff;
   display:flex;
@@ -29357,10 +29357,10 @@ h2.flex a#pw__notification:hover {
   padding-right:1rem
 }
 #pw__calendar-options .pw__calendar-options-checks#pw__calendar-options-type>div.all:before {
-  border-color:#0073cf
+  border-color:#9557c3
 }
 #pw__calendar-options .pw__calendar-options-checks#pw__calendar-options-type>div.all.active:before {
-  background-color:#0073cf
+  background-color:#9557c3
 }
 #pw__calendar-options .pw__calendar-options-checks>div {
   cursor:pointer;
@@ -29369,7 +29369,7 @@ h2.flex a#pw__notification:hover {
   position:relative
 }
 #pw__calendar-options .pw__calendar-options-checks>div:before {
-  border:.0625rem solid #0073cf;
+  border:.0625rem solid #9557c3;
   box-sizing:border-box;
   content:"";
   height:.8125rem;
@@ -29392,7 +29392,7 @@ h2.flex a#pw__notification:hover {
   width:.6875rem
 }
 #pw__calendar-options .pw__calendar-options-checks>div.active:before {
-  background-color:#0073cf;
+  background-color:#9557c3;
   border:none
 }
 #pw__calendar-options .pw__calendar-options-checks>div.active:after {
@@ -29603,7 +29603,7 @@ h2.flex a#pw__notification:hover {
 #pw__single-left .btn.blue.download {
   margin:10px 0;
   align-items:center;
-  background-color:#0073cf;
+  background-color:#9557c3;
   border-radius:.25rem;
   box-sizing:border-box;
   box-shadow:none;
@@ -29881,7 +29881,7 @@ h2.flex a#pw__notification:hover {
 }
 #pw__single-right .pw__single-station-group-inner>div:hover:before,
 #pw__single-right .pw__single-station-group-inner>div:hover:after {
-  border-color:#0073CF
+  border-color:#9557c3
 }
 #pw__single-right .pw__single-station-group-inner>div .pw__popup-wrap {
   display:block;
@@ -30542,7 +30542,7 @@ h2.flex a#pw__notification:hover {
 }
 #acc__nav ul li a:hover,
 #acc__nav ul li a.active {
-  color:#0073cf;
+  color:#9557c3;
   text-decoration:none
 }
 #acc__nav ul li:before {
@@ -30574,7 +30574,7 @@ h2.flex a#pw__notification:hover {
   margin-bottom:0
 }
 #acc__note {
-  color:#0073cf;
+  color:#9557c3;
   font-size:.875rem;
   position:absolute;
   right:20px
@@ -30846,7 +30846,7 @@ h2.flex a#pw__notification:hover {
   background-repeat:no-repeat
 }
 .acc__stations .acc__table-row .acc__table-cell .highlight {
-  color:#0073cf
+  color:#9557c3
 }
 .acc__stations .acc__table-row .acc__table-cell.has-station-tooltip {
   cursor:pointer
