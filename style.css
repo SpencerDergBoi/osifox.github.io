@@ -628,7 +628,7 @@ body:not(.home) .mobile-logo {
   margin-left:313px
 }
 #nav {
-  background:#0073cf;
+  background:#9557c4;
   margin:0;
   padding:0;
   display:flex;
@@ -655,7 +655,7 @@ body:not(.home) .mobile-logo {
     padding-right:0
   }
   #nav a {
-    background-color:#0073cf;
+    background-color:#9557c4;
     display:block;
     padding-bottom:20px;
     padding-top:18px;
@@ -1465,7 +1465,7 @@ button.ui-widget {
   overflow:hidden;
   font-size:16px;
   color:#fff;
-  background:#0073cf;
+  background:#9557c4;
   padding:34px 49px 42px 47px
 }
 #footer__top .navs-area {
